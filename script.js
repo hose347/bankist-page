@@ -323,6 +323,7 @@ const slider = function () {
   });
 };
 slider();
+
 // Dom traversing //
 /*
 const h1 = document.querySelector('h1');
